@@ -11,6 +11,8 @@ NLP task for social media research on Samsung Galaxy S8 vs. iPhone 8, iPhone X f
 - Sentiment classification task for twitter (and non-twitter) post before and after the launch of each product and time series analysis of sentiments
 - Sentiment prediction task for each product
 
+For detailed analysis, please see the [final report](https://github.com/yuweizhu1993/iphone_galaxy_nlp_task/blob/master/DSPM%20Final%20Report.pdf). For high-level ideas and results, please check the [presentation deck](https://github.com/yuweizhu1993/iphone_galaxy_nlp_task/blob/master/Final%20Presentation%20-%20social%20media%20analysis.pdf).
+
 
 ## Collaborators
 [@spongezzr](https://github.com/spongezzr)
