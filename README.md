@@ -1,4 +1,4 @@
-# iphone_galaxy_nlp_task
+# Iphone Galaxy nlp task
 
 NLP task for social media research on Samsung Galaxy S8 vs. iPhone 8, iPhone X from Twitter and non-Twitter data.It's the final project for CMU 95851 DSPM course.
 
