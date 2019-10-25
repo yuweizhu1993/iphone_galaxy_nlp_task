@@ -2,6 +2,9 @@
 
 NLP task for social media research on Samsung Galaxy S8 vs. iPhone 8, iPhone X from Twitter and non-Twitter data.It's the final project for CMU 95851 DSPM course.
 
+## Dataset
+This dataset is natural language text data of consumer posts, comments and reviews on Samsung Galaxy S8 and iPhone 8 and X models. The timeline of there posts preced the release of each of the smartphones by about a month and then continue on for a few months after the announcement.
+
 ## Pipeline
 ![Image](https://github.com/yuweizhu1993/iphone_galaxy_nlp_task/blob/master/pipeline_flowchat.png)
 
